@@ -1,0 +1,15 @@
+{
+  "name": "myhw35",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key d1bdf5cf-b210-4df2-a894-b7385063b0bd"
+  },
+  "keywords": [],
+  "author": "Mikhalev Valera",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.2.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "weekday": ".page-nav__day",
+    "dayOfWeek": "a.page-nav__day:nth-of-type(2)",
+    "sessionGrid": ".conf-step__seances-movie-title",
+    "nameHall": "#start-sales > [style='display: block;'] > .conf-step__selectors-box > :nth-child(4) > .conf-step__radio",
+    "openTicketSalesButton": "#start-sales > .text-center > .conf-step__button",
+    "movieSeance": ":nth-child(3) > .movie-seances__hall > .movie-seances__list > .movie-seances__time-block > .movie-seances__time",
+    "chooseMovie": ":nth-child(3) > .movie__info > .movie__description > .movie__title",
+    "seats": ":nth-child(4) > :nth-child(1)",
+    "reserve": ".buying > .acceptin-button",
+    "bookingCode": ".ticket > .ticket__info-wrapper > .acceptin-button"
+  }
