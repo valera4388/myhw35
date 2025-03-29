@@ -8,5 +8,6 @@
     "chooseMovie": ":nth-child(3) > .movie__info > .movie__description > .movie__title",
     "seats": ":nth-child(4) > :nth-child(1)",
     "reserve": ".buying > .acceptin-button",
-    "bookingCode": ".ticket > .ticket__info-wrapper > .acceptin-button"
+    "bookingCode": ".ticket > .ticket__info-wrapper > .acceptin-button",
+    "chooseDay": ".page-nav > a:nth-child(4)"
   }
